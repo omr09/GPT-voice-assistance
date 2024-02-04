@@ -4,8 +4,8 @@ import speech_recognition as sr
 from queue import Queue
 
 # API
-openai.api_key = "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"
-elevenlabs.set_api_key("b84e2980716d597b37c85012db8cb7d5") 
+openai.api_key = "YOUR-API-KEY-GOES-HERE"
+elevenlabs.set_api_key("YOUR-API-KEY-GOES-HERE") 
 
 # voice
 bella_voice_identifier = "EXAVITQu4vr4xnSDxMaL"
